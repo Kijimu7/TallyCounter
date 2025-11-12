@@ -17,7 +17,13 @@ Whether you’re tracking habits, exercises, tasks, or daily goals, this app mak
 
 ## 🎥 Demo
 
-[![Watch the video](https://img.youtube.com/vi/HFHY5nXT_QY/maxresdefault.jpg)](https://youtu.be/HFHY5nXT_QY)
+<p align="center">
+  <a href="https://youtu.be/HFHY5nXT_QY" target="_blank">
+    <img src="https://img.youtube.com/vi/HFHY5nXT_QY/maxresdefault.jpg" 
+         alt="Tally Counter Demo Video"
+         width="480">
+  </a>
+</p>
 
 
 ---
