@@ -1,0 +1,5 @@
+E:\WindowsNetApp\TallyCounter\TallyCounter\bin\Release\net6.0-windows\app.publish\TallyCounter.exe
+E:\WindowsNetApp\TallyCounter\TallyCounter\bin\Release\net6.0-windows\app.publish\TallyCounter.dll
+E:\WindowsNetApp\TallyCounter\TallyCounter\bin\Release\net6.0-windows\app.publish\TallyCounter.deps.json
+E:\WindowsNetApp\TallyCounter\TallyCounter\bin\Release\net6.0-windows\app.publish\TallyCounter.runtimeconfig.json
+E:\WindowsNetApp\TallyCounter\TallyCounter\bin\Release\net6.0-windows\app.publish\TallyCounter.pdb
